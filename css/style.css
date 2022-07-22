@@ -75,7 +75,6 @@ article{
     height: 90%;
     opacity: 1;
     cursor: pointer;
-
 }
 
 /* texts containers */
@@ -103,6 +102,11 @@ article{
     padding-bottom: 1em;
     border-bottom: 1px solid var(--line);
     width: 90%;
+}
+.time,
+.precio{
+          display: flex;
+          gap: 9px
 }
 
 .precio{
