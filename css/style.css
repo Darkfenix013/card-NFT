@@ -59,7 +59,7 @@ article{
 .overlay{
    position: absolute;
     bottom: 1rem;
-    width: 87%;
+    width: 90%;
     height: 0;
     opacity: 0;
     display: flex;
